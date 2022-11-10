@@ -33,6 +33,9 @@ instapy==0.6.16
 instapy-chromedriver==2.46
 instapy-testers2==1.0
 ipykernel==6.15.1
+flask==0.11
+jinja2==2.8
+gunicorn==19.6.0
 ipython==8.4.0
 jedi==0.18.1
 json2json==0.1.0
